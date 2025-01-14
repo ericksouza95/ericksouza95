@@ -1,5 +1,6 @@
 🌐 Erick Silva de Souza
-💻 Desenvolvedor de Realidade Aumentada | Especialista em OPSEC | Administrador de Nuvem
+🎓 Aluno do IFRN
+💻 Desenvolvedor de Realidade Aumentada | OPSEC | Administrador de Nuvem
 📈 Apaixonado por tecnologia, segurança e soluções em computação distribuída.
 🔗 Explorando o futuro da interação digital e o poder da infraestrutura em nuvem.
 <!---
