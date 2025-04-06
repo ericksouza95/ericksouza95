@@ -10,11 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Olá, meu nome é Erick Souza!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ericksouza95&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na InspireLogic<br/> Eu sou DevOPS e CEO</p>
+<p>Atualmente sou DevOPS<br/> e CEO na InspireLogic</p>
 
 
 **Skills**
